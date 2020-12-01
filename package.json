@@ -1,0 +1,36 @@
+{
+  "name": "fireblaze-starter",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@fireblaze/affiliates": "0.0.61",
+    "@fireblaze/blocks": "^1.1.78",
+    "@fireblaze/core": "0.0.62",
+    "@fireblaze/database": "0.0.62",
+    "@fireblaze/helpers": "^1.0.3",
+    "@fireblaze/interface": "^1.0.85",
+    "@fireblaze/marketing": "0.0.62",
+    "@fireblaze/members": "0.0.77",
+    "@zeit/next-sass": "^1.0.1",
+    "next": "10.0.3",
+    "next-compose-plugins": "^2.2.1",
+    "next-transpile-modules": "^5.0.0",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "sass": "^1.29.0"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "prettier": {
+    "trailingComma": "es5",
+    "tabWidth": 4,
+    "singleQuote": true,
+    "bracketSpacing": true
+  }
+}
