@@ -1,30 +1,26 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Destacked Starter
+
+Starter app used to create new Destacked-based applications.
+
+## Requirements
+
+- Node Package Manager (NPM)
+- Code Editor (i.e. Visual Studio Code)
 
 ## Getting Started
 
-First, run the development server:
+1. Download the repository locally.
+2. Open the repository folder in your code editor.
+3. Run `npm install` to install all dependencies.
+4. That's it! Start building your app using [React](https://reactjs.org/), [Next.js](https://nextjs.org/) and [other Destacked modules](https://www.notion.so/destacked/Whitepaper-4e124d56101c4cfb89c379e9a6b7d6c3).
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## Useful Links
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- [Starter Documentation](https://destacked.gitbook.io/starter/)
+- [Whitepaper](https://www.notion.so/destacked/Whitepaper-4e124d56101c4cfb89c379e9a6b7d6c3)
+- [Discord Community](https://discord.gg/B3ENAdKWvN)
+- [Twitter](https://twitter.com/destacked/)
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## Contributing 
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+If you want to get involved and contribute to  Destacked, please review the [Contributing](https://github.com/Destacked/Starter/CONTRIBUTING.md) guidelines and [Code of Conduct](https://github.com/Destacked/Starter/CODE_OF_CONDUCT.md).
