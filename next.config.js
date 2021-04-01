@@ -5,13 +5,13 @@ const withPlugins = require('next-compose-plugins');
  */
 
 const withTM = require('next-transpile-modules')([
-    '@fireblaze/core',
-    '@fireblaze/interface',
-    '@fireblaze/database',
-    '@fireblaze/blocks',
-    '@fireblaze/members',
-    '@fireblaze/marketing',
-    '@fireblaze/affiliates',
+    '@destacked/core',
+    '@destacked/interface',
+    '@destacked/database',
+    '@destacked/blocks',
+    '@destacked/members',
+    '@destacked/marketing',
+    '@destacked/affiliates',
 ]);
 
 module.exports = withPlugins([withTM], config);
